@@ -31,16 +31,16 @@ S1 2HH
      
 
 
-<div class="wrapper">          
+<!--- <div class="wrapper">          
             
                 <div class="box white">
 
 <h2>Travel and accommodation</h2>
                   
  <p> Individuals are to arrange their own travel, and, if necessary, overnight accommodation through RedFern.  Associated T&S costs will fall to local budgets.</P>         
-     </div><!-- purple-->
+     </div><!-- purple
      
-       </div>
+       </div> --> 
 
 
 <div class="wrapper">      

@@ -20,7 +20,7 @@
         <div class="box">
             <i class="fa fa-list-ul fa-4x"></i>
         </div>
-        <h2>Agenda</h2>
+        <h2>About the day</h2>
     </a>
     
     <a href="venue.php">
