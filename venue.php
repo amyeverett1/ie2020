@@ -64,11 +64,11 @@ S1 2HH
 
     </div>   
 
-<!-- purple-->
+<!-- purple
      
    </div>
 
-//-->
+--> 
 
 
 
@@ -83,19 +83,13 @@ S1 2HH
             </div>
         </div> <!-- wrappper-->
             
-            <div class="wrapper">
-<div class="box white">
-         
-
-
-<h2>Contact the venue</h2>
-    
-<span>Telephone: <a href="tel:0114 273 4567">0114 273 4567</a>
-</br>
-
-    Website: <a href="https://www.sheffield.gov.uk/content/sheffield/home/your-city-council/book-room-town-hall.html"</a></span>
-            </div><!-- purple-->
-            </div>
+<div class="wrapper">
+    <div class="box white">
+        <h2>Contact the venue</h2>
+        <p>Telephone: <a href="tel:0114 273 4567">0114 273 4567</a></p>
+        <p>Website: <a href="https://www.sheffield.gov.uk/content/sheffield/home/your-city-council/book-room-town-hall.html">Sheffield town hall site</a></p>
+    </div><!-- purple-->
+</div>
             
             
           
