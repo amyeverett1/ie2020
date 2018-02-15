@@ -176,7 +176,7 @@ h2 {
 
 a {
     color: #0083e8;
-    word-break: break-all;
+    word-break: break-word;
 }
 
 b, strong {
@@ -396,7 +396,7 @@ img {
         width: 98%;
         padding: 0 0 0 2%;
         max-width: 450px;
-        margin: 0 auto;
+        margin: 0 auto 120px auto;
         text-align: center;
         float: none; 
         min-height: 300px;
