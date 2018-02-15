@@ -48,8 +48,9 @@ S1 2HH
     <div class="box white">
             
 <h2>Map</h2>
-<iframe src="https://www.google.co.uk/maps/place/Sheffield+Town+Hall/@53.3803683,-1.4694135,15z/data=!4m5!3m4!1s0x0:0xd1f77f34d3f67305!8m2!3d53.3803683!4d-1.4694135" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2379.928606238341!2d-1.4716321849200547!3d53.38032687986761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487982821f3ad36f%3A0x7bd0a35dafe94d51!2sSheffield+Town+Hall%2C+Surrey+St%2C+Sheffield+S1+2HH!5e0!3m2!1sen!2suk!4v1518720572307" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        
             </div>
         </div> <!-- wrappper-->
             
