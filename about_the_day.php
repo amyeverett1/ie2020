@@ -8,10 +8,7 @@
 <h1>About the day</h1>
 
 </header>
-
-        
-
-<div class="container">
+<div class="container agenda">
     
     <div class="wrapper">
         <div class="box white">
