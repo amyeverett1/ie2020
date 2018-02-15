@@ -42,36 +42,6 @@ S1 2HH
      
        </div>
 
-     
-       
-
-<div class="wrapper">    
-<!--      
-            
-                <div class="box white">
-    
-                
-
-<h2>Directions</h2>
-
-
-<h3>Transport</h3>
-
-
-<h3>Parking</h3>
-
-
-
-    </div>   
-
-<!-- purple
-     
-   </div>
-
---> 
-
-
-
 
 <div class="wrapper">      
           
