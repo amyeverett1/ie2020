@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <title>IE 2020 Advocates</title>
-        <meta name="description" content="Click here to get to the main HOD Away Day site">
+        <meta name="description" content="IE 2020 Conference">
         <link rel="stylesheet" href="/css/main.css">
         <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,400italic' rel='stylesheet' type='text/css'>
