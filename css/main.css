@@ -1,0 +1,530 @@
+html {
+    background-color: #0E2D6D;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    margin: 0 auto;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.7em;
+    color: #912b88;
+    background-color: #f5f5f5;
+    font-weight: 200;
+}
+
+header {
+    background-color: #0E2D6D;
+    padding: 10px 0;
+    height: 70px;
+}
+
+header.tall {
+    height: 160px!important;
+}
+
+header h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+}
+
+.head {
+    width: 320px;
+    margin: 0 auto;
+    float: none;
+    text-align: center;
+    display: block;
+}
+
+.head h1 {
+    font-size: 2.1em;
+    width: 200px;
+    float: left;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.head img {
+    border: none;
+    width: 70px;
+    height: 120px;
+    float: left;
+    margin-top: 20px;
+}
+
+.date {
+    background: #0b2452;
+    color:#fff!important;
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    padding: 5px 0;
+    font-size: .8em;
+}
+
+.home {
+    color: #fff;
+    font-size: 2em;
+    text-decoration: none;
+    float: left;
+    margin: 9px -8% 0px 4%;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    padding: 10px 10px 5px 8px;
+    background: #fff;
+}
+
+.home .fa {
+    margin-left: 3px;
+}
+
+.home:hover {
+    background: #0b2452;
+    color: #fff!important;
+    border-color: #0b2452;
+}
+
+.home:hover i {
+    color: #fff!important;
+}
+
+footer {
+    background-color: #0E2D6D;
+    padding: 10px 0; 
+    clear: both;
+}
+
+footer p, footer p a  {
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    width: 96%;
+    clear: both;
+    float: left;
+    padding: 5% 0;
+}
+
+.container.index {
+    width: 98%;
+    padding-left: 2%;
+}
+
+.agenda .box {
+    width: 86%;
+    color: #fff;
+    padding: 10px;
+    max-width: 400px;
+    margin: 2% 2% 2% 0%;
+    border-left: 2px solid #0b2452;
+    border-left: 2px solid #0b2452;
+    transition: background-color 0.5s ease;
+}
+
+.agenda h2, .agenda h3 {
+    margin: 0;    
+    line-height: 1.3em;
+    color: #2f2f2f;
+    width: 100%;
+}
+
+.agenda h2 {
+    font-size: 1.5em;
+    text-align: left!important;
+    margin: 10px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.breakout {
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.agenda h3 {
+    font-size: 1.1em;
+    line-height: 1.5em;
+    margin: 5px 0;
+    float: left;
+}
+
+.agenda span {
+    margin: 0 0 5px 0;
+    float: left;
+    font-size: 1.1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 200;
+    line-height: 1em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: #0083e8;
+    word-break: break-all;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+.box {
+    width: 41%;
+    margin: 2%;
+    float: left;
+}
+
+.formbox {
+    margin: 2%;
+    float: left;
+    padding: 30px 20px 0 20px;
+}
+
+.formbox h2 {
+    padding-bottom: 40px;
+}
+
+form header {
+    background: none;
+    height: 40px;
+}
+
+form header h2, form legend {
+    margin: 0;
+    padding: 5px 0;
+}
+
+form ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+form fieldset {
+    border: 0 none;
+    padding: 0;
+}
+
+fieldset > div > span {
+    float: left;
+    clear: both;
+    padding: 7px 0;
+}
+
+fieldset > div > span > input {
+    margin-right: 10px;
+}
+
+form span input {
+    float: left;
+}
+
+form label > span {
+    clear: none;
+}
+
+#req_1 {
+    display: none;
+}
+
+.button_container {
+    margin: 5px 0 25px 0;
+    float: left;
+}
+
+.btTxt {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #0E2D6D;
+    color: #fff;
+    border: 0 none;
+    border-bottom: 5px solid #0b2452;
+    float: left;
+    text-decoration: none;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.btTxt:hover {
+    background-color: #0b2452;
+    border-bottom: 5px solid #4d5d27;
+    cursor: pointer;
+}
+
+.btTxt:active {
+    margin-bottom: 0px;
+    border-bottom: 0;
+    margin-top: 5px;
+}
+
+.index .box {
+    margin-left: 3%;
+    background-color: #fff;
+    border-radius: 50%;
+	width: 120px;
+	height: 120px;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 5px;
+}
+
+.index .box:hover {
+    background-color: #0b2452;
+    border: 1px solid #3b471e;
+    cursor: pointer;
+}
+
+.index .box:hover .fa {
+    color: #fff!important;
+}
+
+.index a {
+    width: 120px;
+    height: 120px;
+    float: left;
+    text-decoration: none;
+    margin: 2em 1em 2em 1em;
+}
+
+.index h2 {
+   font-size: 1.1em;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+i {
+    color: #2f2f2f;
+}
+
+.index .fa {
+    margin-top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    display: block!important;
+    padding-top: .4em;
+}
+
+.box img {
+    max-width: 80px;
+    max-height: 80px;
+    border: 0 none;
+}
+
+.wrapper {
+    margin: 2% 4%;
+    float: left;
+}
+
+.agenda .wrapper {
+    width: 100%;
+    margin: 0 4%;
+}
+
+.purple {
+    background-color: #0E2D6D;
+}
+
+.white {
+    background-color: #fff;
+    border-left: 5px solid #0E2D6D!important;
+    border-right: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    color: #2f2f2f!important; 
+    border-radius: 5px;
+    padding-left: 20px!important;
+}
+
+.white h2 {
+    color: #2f2f2f!important;
+}
+
+.box h2 {
+    color: #2f2f2f;
+    text-align: center;
+}
+
+img {
+    -webkit-animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+@media screen  and (max-width : 350px) {
+    
+    .box img {
+        max-width: 70px;
+        max-height: 70px;
+        border: 0 none;
+    }
+
+    .box h2 {
+        color: #fff;
+        font-size: 1.3em;
+    }
+
+    header h1 {
+        text-align: center;
+        color: #fff;
+        font-size: 1.7em;
+    }
+    
+}
+
+@media screen and (max-width: 700px) {
+   .container.index {
+        width: 98%;
+        padding: 0 0 0 2%;
+        max-width: 450px;
+        margin: 0 auto;
+        text-align: center;
+        float: none; 
+        min-height: 300px;
+    }
+}
+
+@media screen and (min-width: 450px) {
+    .index a {
+        margin: 2em 3em;
+    }
+}
+    
+@media screen  and (min-width : 800px) {
+    
+    .box {
+        width: 19%;
+        margin: 1.8%;
+        float: left;
+    }
+    
+    .index .box {
+        background-color: #fff;
+        border-radius: 50%;
+        width: 180px;
+        height: 180px;
+        border: 1px solid #e5e5e5;
+        margin-bottom: 15px;
+    }
+    
+    .head h1 {
+        font-size: 3em;
+        padding-top: 30px;
+    }
+    
+    .head img {
+        width: 100px;
+        height: 160px;
+    }
+    
+    .head {
+        width: 400px;
+    }
+    
+    header.tall {
+        height: 200px!important;
+    }
+    
+    .index a {
+        width: 180px;
+        height: 200px;
+        float: left;
+        text-decoration: none;
+        margin: 1em 2em;
+    }
+    
+    .date {
+        font-size: 1em;
+    }
+    
+    .index a {
+        margin: 2em 1em;
+    }
+    
+    .index h2 {
+        font-size: 1.3em;
+    }
+
+    i {
+        color: #2f2f2f;
+    }
+
+    .fa-4x {
+        font-size: 6em!important;
+    }
+
+    .agenda .wrapper {
+        width: 600px;
+        margin: 0 auto;
+        float: none;
+    }
+    
+    .agenda .box {
+        width: 600px;
+        max-width: none;
+        margin: 2% auto;
+    }
+    
+    .container {
+        padding: 2% 0;
+    }
+    
+    .container.index {
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+    
+    .formbox {
+        padding: 40px 30px 0 50px;
+        width: 300px;
+    }
+    
+    .vote .wrapper {
+        float: none;
+        margin: 0 auto;
+        width: 300px;
+    }
+    
+    .white iframe {
+        width: 550px!important;
+        height: 600!important;
+    }
+
+}
+
+@media screen and (min-width: 900px) {
+    
+    .index a {
+        float: left;
+        text-decoration: none;
+        margin: 1.5em 2em;
+    }
+
+    .container.index {
+        min-height: 300px;
+        margin: 0 auto;
+        text-align: center;
+        float: none;
+        display: block;
+        max-width: 800px;
+    }
+}
