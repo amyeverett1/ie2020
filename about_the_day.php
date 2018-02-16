@@ -40,7 +40,8 @@
         <p>Please wear smart business attire to the event, not uniforms.</p>
         <p>If you have any specific requirements, please let us know when booking.</p>
         <p>Lunch will be provided.</p>
-        <p>Travel and accommodation, if required, must be booked through Redfern with costs met by your own business area.</p>     
+        <p>Travel and accommodation, if required, must be booked through Redfern with costs met by your own business area.</p>    
+        <p>Please arrive in time for a prompt start at 10.00am.  The event will finish at 4.00pm.</p>
     </div> <!-- psurple-->
 </div> <!-- wrapper-->
 
