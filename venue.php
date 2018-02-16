@@ -19,9 +19,10 @@
     
                 <h2>Address</h2>
                   
-  <span>Canalside<br>
-Sheffield Town Hall<br>
-S1 2HH
+  <span>Sheffield Town Hall<br>
+Pinstone Street<br>
+      Sheffield<br>
+      S1 2HH
 </span>
            
      </div><!-- purple-->
