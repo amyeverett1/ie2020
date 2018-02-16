@@ -41,7 +41,7 @@
         <p>If you have any specific requirements, please let us know when booking.</p>
         <p>Lunch will be provided.</p>
         <p>Travel and accommodation, if required, must be booked through Redfern with costs met by your own business area.</p>    
-        <p>Please arrive in time for a prompt start at 10.00am.  The event will finish at 4.00pm.</p>
+        <p>Please arrive in good time for a prompt start at 10.00am. Coffee and pastries will be served from 9.45am.  The event will finish at 4.00pm.</p>
     </div> <!-- psurple-->
 </div> <!-- wrapper-->
 
